@@ -1,0 +1,314 @@
+@media screen and (max-width: 992px) {
+  .main1 ol {
+    width: 120%;
+  }
+  .main1-nav a {
+    width: 60%;
+    padding: 5;
+  }
+  header ol {
+    margin-left: 40%;
+  }
+  .main1-caption1 {
+    width: 70%;
+  }
+
+  /*          start   main   2         */
+
+  .main2 .img {
+    width: 100%;
+    border: 8px solid rgba(255, 255, 255, 0.7);
+  }
+  .main2-caption2 {
+    width: 45%;
+  }
+  .main2-caption2 p {
+    font-size: 14px;
+  }
+  .main2-p1 p {
+    font-size: 13px;
+  }
+  .main2-p2 p {
+    font-size: 13px;
+  }
+  .main2-p1 span {
+    font-size: 13px;
+  }
+  .main2-p2 span {
+    font-size: 13px;
+  }
+  .main2-p2 {
+    width: 50%;
+  }
+
+  /*           start      main       3           */
+
+  .sec3 {
+    height: 95vh;
+  }
+  .main3-caption1,
+  .main3-caption2,
+  .main3-caption3,
+  .main3-caption4 {
+    width: 35%;
+    height: 35%;
+  }
+
+  /*                  start       main        4             */
+
+  .main4-img {
+    width: 45%;
+  }
+
+  /*           start       main     5                      */
+
+  .main5-caption {
+    padding-left: 8%;
+  }
+
+  /*                start        main  6                   */
+
+  .main6-caption2 {
+    width: 70%;
+  }
+
+  /*                start      main     7                 */
+.sec7 {
+  height:75vh ;
+}
+  .main7 img {
+    height: 29%;
+  }
+  .main7 iframe {
+    height: 29%;
+  }
+  .main7 h5 {
+    font-size: 18px;
+  }
+  .main7-caption1,
+  .main7-caption2,
+  .main7-caption3 {
+    
+    height: 95%;
+    width: 26%;
+    
+  }
+
+  /*                         start   main     8               */
+
+  .main8 .name,
+  .main8 .mail {
+    width: 40%;
+  }
+  .main8 .sub {
+    width: 82.5%;
+  }
+  .main8 textarea {
+    width: 82.5%;
+  }
+  .main8 .send {
+    margin-right: 65%;
+  }
+}
+
+/*                      start        main     9                 */
+.sec9 {
+  height: 15%;
+}
+
+/*                                                               */
+
+@media screen and (max-width: 768px) {
+  .main1-caption1 {
+    margin-top: 30%;
+  }
+  .main1 {
+    background: rgba(5, 5, 5, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: -2.5%;
+    right: 0;
+  }
+  .main1 ol {
+    width: 150%;
+  }
+  
+  .text1,
+  .text2 {
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    right: 15%;
+  }
+  .main1-text {
+    font-size: 17px;
+    font-weight: 700;
+    padding-top: 3.2%;
+    margin-top: 1%;
+  }
+  .main1-caption1 h1 {
+    font-size: 32px;
+    padding: 2% 0 2% 0;
+  }
+
+  /*          start   main   2         */
+
+  .main2-caption1 {
+    width: 80%;
+    padding-left: 10%;
+  }
+  .main2-p2,
+  .main2-p1 {
+    float: none;
+  }
+  .main2-p2 {
+    position: relative;
+    right: 0;
+  }
+  .main2-med {
+    width: 500px;
+  }
+  .main2-caption2 {
+    width: 100%;
+    padding-bottom: 10%;
+  }
+
+  /*           start      main       3           */
+
+  .sec3 {
+    height: 170vh;
+  }
+  .main3-caption1,
+  .main3-caption2,
+  .main3-caption3,
+  .main3-caption4 {
+    width: 80%;
+    height: 250px;
+  }
+
+  /*                  start       main        4             */
+
+  .main4-img {
+    width: 80%;
+    float: none;
+    padding: auto;
+  }
+
+  .main4 h2 {
+    font-size: 26px;
+  }
+  .main4 h2::after {
+    left: 37%;
+    bottom: -4%;
+    height: 1px;
+  }
+  .main4 h2::before {
+    left: 43.5%;
+    bottom: -10%;
+  }
+
+  /*           start       main     5                      */
+  .sec5 {
+    height: 80vh;
+  }
+  .main5-caption {
+    width: 80%;
+  }
+
+  /*                start        main  6                   */
+  .main6 h2 {
+    font-size: 26px;
+  }
+  .main6 h2::after {
+    left: 44%;
+    bottom: -4%;
+    height: 1px;
+  }
+  
+  .main6 h2::before {
+    left: 50%;
+    bottom: -10%;
+  }
+  .main6-caption2 {
+    width: 70%;
+    height: 55%;
+    margin-left: 15%;
+  }
+  .main6 img {
+    width: 160%;
+    margin-left: 220%;
+  }
+  .main6-p {
+    margin-top: 8%;
+    margin-right: 15%;
+  }
+  .main6-img::before {
+    bottom: -60%;
+    right: -8%;
+    width: 300%;
+    height: 250%;
+  }
+
+
+
+  /*                start      main     7                 */
+  .sec7 {
+    height: 230vh;
+    align-items: center;
+    justify-items: center;
+  }
+  .main7 h2 {
+    font-size: 26px;
+  }
+  .main7 h2::after {
+    left: 38%;
+    bottom: -10%;
+    height: 1px;
+  }
+  .main7 h2::before {
+    left: 45%;
+    bottom: -16%;
+  }
+  .main7-caption1,
+  .main7-caption2,
+  .main7-caption3 {
+    float: none;
+    height: 45%;
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  .main7 img {
+    height: 300px;
+  }
+  .main7 iframe {
+    height: 300px;
+  }
+  .main7 h5 {
+    font-size: 18px;
+  }
+
+  /*                         start   main     8               */
+
+  
+  .main8 .mail {
+    width: 82.5%;
+    margin-left: 0;
+  }
+  .main8 .name,
+  .main8 .sub {
+    width: 82.5%;
+  }
+  .main8 textarea {
+    width: 82.5%;
+  }
+  .main8 .send {
+    margin-right: 55%;
+  }
+
+  /*                      start        main     9                 */
+  .sec9 {
+    height: 15%;
+  }
+}
